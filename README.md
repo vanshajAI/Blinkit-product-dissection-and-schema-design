@@ -1,9 +1,10 @@
-Blinkit Schema Design and Data Flow Analysis
+<b>Blinkit Schema Design and Data Flow Analysis</b>
+<br>
 This project presents a detailed schema design and data flow analysis for Blinkit, a leading quick-commerce platform, to illustrate its data management and operational efficiency.
-
+<br>
 Project Overview
 Blinkit has transformed the grocery delivery landscape with rapid and reliable service. To support its backend processes, we developed a comprehensive database schema, capturing essential entities such as Users, Products, Vendors, Orders, Order Items, Deliveries, and Locations.
-
+<br>
 Schema Design
 Our schema includes:
 
